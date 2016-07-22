@@ -1,0 +1,10 @@
+Module.cpp
+Application.cpp
+Application.h
+Module.def
+
+[!if USE_STDAFX]
+stdafx.h
+targetver.h
+stdafx.cpp
+[!endif]
