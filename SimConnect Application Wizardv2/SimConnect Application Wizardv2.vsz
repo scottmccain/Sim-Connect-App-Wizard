@@ -1,0 +1,6 @@
+VSWIZARD 7.0
+Wizard=VsWizard.VsWizardEngine.12.0
+
+Param="WIZARD_NAME = SimConnect Application Wizardv2"
+Param="ABSOLUTE_PATH = C:\Users\Monkey\Desktop\SimConnect Application Wizardv2\SimConnect Application Wizardv2"
+Param="FALLBACK_LCID = 1033"
