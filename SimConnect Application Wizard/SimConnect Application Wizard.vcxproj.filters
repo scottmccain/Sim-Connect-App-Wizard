@@ -60,10 +60,15 @@
     <ClInclude Include="Templates\1033\targetver.h" />
     <ClInclude Include="Templates\1033\Application.h" />
     <ClInclude Include="Templates\1033\stdafx.h" />
+    <ClInclude Include="Templates\1033\DialogBase.h" />
+    <ClInclude Include="Templates\1033\SimConnectApp.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Templates\1033\Application.cpp" />
     <ClCompile Include="Templates\1033\Module.cpp" />
     <ClCompile Include="Templates\1033\stdafx.cpp" />
+    <ClCompile Include="Templates\1033\DialogBase.cpp" />
+    <ClCompile Include="Templates\1033\SimConnectApp.cpp" />
+    <ClCompile Include="Templates\1033\dllmain.cpp" />
   </ItemGroup>
 </Project>

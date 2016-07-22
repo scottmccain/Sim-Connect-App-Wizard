@@ -3,6 +3,14 @@ Application.cpp
 Application.h
 Module.def
 
+DialogBase.cpp
+DialogBase.h
+
+SimConnectApp.cpp
+SimConnectApp.h
+
+dllmain.cpp
+
 [!if USE_STDAFX]
 stdafx.h
 targetver.h
