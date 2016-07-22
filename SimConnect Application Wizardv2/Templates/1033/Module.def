@@ -1,5 +1,0 @@
-LIBRARY [!output SAFE_PROJECT_NAME]
-
-EXPORTS
-DLLStart
-DLLStop
